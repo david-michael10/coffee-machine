@@ -62,6 +62,9 @@
 
 <img width="1367" height="509" alt="image" src="https://github.com/user-attachments/assets/baa24e16-557c-406e-88ad-f2dabb5ec58b" />
 
+<img width="1058" height="677" alt="image" src="https://github.com/user-attachments/assets/d86552df-dfaa-41a1-b007-577538b30955" />
+
+
     Inicio o loop que irá perguntar qual tipo de café quer
 
     Se digitar "off", a máquina para
